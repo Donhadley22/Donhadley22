@@ -1,0 +1,42 @@
+### 👋 Hello, I'm Bernard Chika Uwaezuoke!
+
+I'm a passionate Cloud and DevOps Engineer with a focus on AWS and Azure. My mission is to leverage cutting-edge cloud technologies to build scalable, resilient, and secure infrastructures.
+
+#### 💻 Technical Expertise:
+
+- **Cloud Platforms:** AWS, Azure
+- **DevOps Tools:** Terraform, Ansible, Jenkins
+- **Containers and Orchestration:** Docker, Kubernetes
+- **Scripting Languages:** Python, Bash
+- **Monitoring and Logging:** CloudWatch, Azure Monitor, ELK Stack
+- **CI/CD:** GitHub Actions, AWS CodePipeline
+
+#### 🚀 What I Do:
+
+- **Infrastructure as Code (IaC):** Designing and implementing infrastructure using Terraform for AWS and Azure.
+- **Automation:** Streamlining workflows and reducing manual interventions through automation.
+- **Containerization:** Containerizing applications with Docker and managing orchestration with Kubernetes.
+- **Continuous Integration/Continuous Deployment (CI/CD):** Setting up end-to-end CI/CD pipelines for seamless software delivery.
+
+#### 📈 Why Work with Me:
+
+- **Problem Solver:** I thrive on tackling complex challenges and finding innovative solutions.
+- **Team Player:** Collaborative and communicative, I believe in the power of teamwork.
+- **Continuous Learner:** In the fast-paced world of cloud and DevOps, I stay updated with the latest technologies and best practices.
+
+#### 🌐 Let's Connect:
+
+- **LinkedIn:** [https://www.linkedin.com/in/bernard-uwaezuoke-29b33488/](#)
+  
+
+#### 📫 Get in Touch:
+
+- **Email:** donhadleygirlandchika@gmail.com
+
+Let's build the future of cloud infrastructure together! Feel free to explore my repositories and don't hesitate to reach out for collaboration or discussions.
+
+Happy coding! 🚀✨
+ 
+
+
+
