@@ -7,7 +7,7 @@ I'm a passionate Cloud and DevOps Engineer with a focus on AWS and Azure. My mis
 - **Cloud Platforms:** AWS, Azure
 - **DevOps Tools:** Terraform, Ansible, Jenkins
 - **Containers and Orchestration:** Docker, Kubernetes
-- **Scripting Languages:** Python, Bash
+- **Scripting Languages:** Python, Bash, PowerShell
 - **Monitoring and Logging:** CloudWatch, Azure Monitor, ELK Stack
 - **CI/CD:** GitHub Actions, AWS CodePipeline
 
