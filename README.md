@@ -26,7 +26,7 @@ I'm a passionate Cloud and DevOps Engineer with a focus on AWS and Azure. My mis
 
 #### 🌐 Let's Connect:
 
-- **LinkedIn:** [https://www.linkedin.com/in/bernard-uwaezuoke-29b33488/](#)
+- **LinkedIn:** [https://www.linkedin.com/in/bernard-uwaezuoke-mct-29b33488/](#)
   
 
 #### 📫 Get in Touch:
