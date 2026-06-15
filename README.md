@@ -39,6 +39,10 @@ My work centers on Infrastructure as Code, CI/CD, container orchestration, cloud
 
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+
+### Systems & Scripting
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -50,6 +54,7 @@ My work centers on Infrastructure as Code, CI/CD, container orchestration, cloud
 
 ### CI/CD & Version Control
 
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![AWS CodePipeline](https://img.shields.io/badge/AWS_CodePipeline-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -60,6 +65,8 @@ My work centers on Infrastructure as Code, CI/CD, container orchestration, cloud
 
 ![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Amazon CloudWatch](https://img.shields.io/badge/Amazon_CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Elastic Stack](https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
 
 ## Core Expertise
@@ -68,10 +75,10 @@ My work centers on Infrastructure as Code, CI/CD, container orchestration, cloud
 |---|---|
 | **Cloud Architecture** | Secure, scalable, and highly available infrastructure on Azure and AWS |
 | **Infrastructure as Code** | Repeatable, version-controlled environments using Terraform |
-| **CI/CD Engineering** | Automated build, test, and deployment workflows with GitHub Actions, Jenkins, and AWS CodePipeline |
+| **CI/CD Engineering** | Automated build, test, and deployment workflows with Azure DevOps, GitHub Actions, Jenkins, and AWS CodePipeline |
 | **Containers** | Docker-based application packaging and Kubernetes orchestration |
-| **Automation** | Operational tooling and workflow automation using Python, Bash, and PowerShell |
-| **Observability** | Monitoring, logging, and actionable insights with Azure Monitor, CloudWatch, and the Elastic Stack |
+| **Systems & Automation** | Linux administration and operational automation using Python, Bash, and PowerShell |
+| **Observability** | Monitoring, metrics, dashboards, and logging with Azure Monitor, CloudWatch, Prometheus, Grafana, and the Elastic Stack |
 
 ## Engineering Principles
 
