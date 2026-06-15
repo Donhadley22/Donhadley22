@@ -9,7 +9,7 @@ Building secure, scalable, and resilient cloud infrastructure through automation
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernard-uwaezuoke-mct-29b33488/)
 [![DEV Community](https://img.shields.io/badge/DEV.to-Follow-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/donhadley22)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:donhadleygirlandchika@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/Donhadley22?style=for-the-badge&logo=github&label=Followers&color=181717)](https://github.com/Donhadley22?tab=followers)
+[![GitHub Profile](https://img.shields.io/badge/GitHub-View_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Donhadley22)
 
 </div>
 
