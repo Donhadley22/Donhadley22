@@ -7,6 +7,7 @@
 Building secure, scalable, and resilient cloud infrastructure through automation, Infrastructure as Code, and modern delivery practices.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernard-uwaezuoke-mct-29b33488/)
+[![DEV Community](https://img.shields.io/badge/DEV.to-Follow-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/donhadley22)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:donhadleygirlandchika@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/Donhadley22?style=for-the-badge&logo=github&label=Followers&color=181717)](https://github.com/Donhadley22?tab=followers)
 
@@ -84,6 +85,7 @@ Design for resilience     |  Keep learning      |  Improve continuously
 I am always interested in cloud engineering, DevOps automation, Infrastructure as Code, and platform reliability conversations.
 
 - **LinkedIn:** [bernard-uwaezuoke-mct-29b33488](https://www.linkedin.com/in/bernard-uwaezuoke-mct-29b33488/)
+- **DEV Community:** [dev.to/donhadley22](https://dev.to/donhadley22)
 - **Email:** [donhadleygirlandchika@gmail.com](mailto:donhadleygirlandchika@gmail.com)
 - **GitHub:** [@Donhadley22](https://github.com/Donhadley22)
 
